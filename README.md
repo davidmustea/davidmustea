@@ -1,7 +1,6 @@
-- 💽 Hi I am David Mustea, a young, aspiring developer.
-- 🐍 I loveeeee Python, I think it is the best programming language!
-- ☕ I don't know about you, but I like coffee. I know it's kinda unrelated, but here I am, not knowing what to write in my description :)
-
+Programmer, Student, Coffee Lover,
+shoot me a message if you are interested in something!
+📕 🍷 👀
 
 <!---
 davidmustea/davidmustea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
