@@ -1,6 +1,4 @@
-Programmer, Student, Coffee Lover,
-shoot me a message if you are interested in something!
-📕 🍷 👀
+Part time astonaut, coffee lover, sometimes I like to code. 🐟�
 
 <!---
 davidmustea/davidmustea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
