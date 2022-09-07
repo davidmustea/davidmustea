@@ -1,4 +1,4 @@
-Part time astonaut, coffee lover, sometimes I like to code. 🐟
+david mustea 11f petru rares
 
 <!---
 davidmustea/davidmustea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
